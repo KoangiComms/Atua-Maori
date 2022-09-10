@@ -1,0 +1,17 @@
+body{
+	background-color: rebeccapurple;
+}
+h1{
+			font-size: 40px;
+			color:  ghostwhite;
+		}
+		h2{
+			color: black;
+		}
+
+		.big{
+			font-size: 60px;
+		}
+		.uppercase{
+			text-transform: uppercase;
+		}
